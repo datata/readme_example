@@ -10,9 +10,12 @@ Esta app consiste en una ...
 
 <img src="https://javadesde0.com/wp-content/uploads/480px-Unofficial_JavaScript_logo_2.svg_.png" width="100"/>
 
+
+[PRUEBA](https://javadesde0.com/wp-content/uploads/480px-Unofficial_JavaScript_logo_2.svg_.png)
+
 **INDICE**
 
-1. Instrucciones de Configuración
+1. [Instrucciones de Configuración](#INSTRUCCIONES)
 - adasdasa
 - asdasdasd
 2. Instrucciones de Instalación 
@@ -43,3 +46,5 @@ console.log(variable);
 
 ```
 
+
+## INSTRUCCTIONES
