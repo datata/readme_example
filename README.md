@@ -15,7 +15,7 @@ Esta app consiste en una ...
 
 **INDICE**
 
-1. [Instrucciones de Configuración](#INSTRUCCIONES)
+1. [Link](#INSTRUCCTIONES)
 - adasdasa
 - asdasdasd
 2. Instrucciones de Instalación 
